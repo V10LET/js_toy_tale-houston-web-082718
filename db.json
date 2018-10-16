@@ -40,13 +40,19 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 6
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 0
+    },
+    {
+      "name": "violet",
+      "image": "https://media.licdn.com/dms/image/C4E03AQG451Ya8pLZLw/profile-displayphoto-shrink_200_200/0?e=1545264000&v=beta&t=tBgTkuQc7UBtntJYvcD8JqCA94ruxKy37XzHu1F3aRI",
+      "likes": 20,
+      "id": 9
     }
   ]
 }
